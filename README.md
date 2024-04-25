@@ -53,39 +53,60 @@ Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo
   ### 4206 - RoboVikes
   ### 2718 - Team OKC E'Possums
 </Details>
-### Curie
+
+<Details>
+<Summary>Curie</Summary>
 - 2590 - Nemesis
 - 4476 - W.A.F.F.L.E.S.
 - 7028 - Binary Battalion
 - 190 - Gompei and H.E.R.D.
-### Daly
+</Details>
+
+<Details>
+  <Summary>Daly</Summary>
 - 1690 - Orbit
 - 4522 - Team SCREAM
 - 9432 - Team 8-Bit
 - 321 - RoboLancers
-### Galileo
+  </Details>
+
+  <Details>
+    <Summary>Galileo</Summary>
 - 2056 - OP Robotics
 - 987 - HIGHROLLERS
 - 1577 - Steampunk
 - 7558 - ALT-F4
-### Hopper
+</Details>
+
+<Details>
+  <Summary>Hopper</Summary>
 - 6328 - Mechanical Advantage
 - 4481 - Team Rembrandts
 - 9072 - TigerBots
 - 2370 - IBOTS
-### Johnson
+</Details>
+
+<Details>
+  <Summary>Johnson</Summary>
 - 5813 - Morpheus
 - 1477 - Texas Torque
 - 3061 - Huskie Robotics
 - 2582 - PantherBots
-### Milstein
+</Details>
+
+<Details>
+  <Summary>Milstein</Summary>
 - 604 - Quixilver
 - 9483 - Istanbul Wildcats
 - 1058 - PVC Pirates
 - 78 - AIR STRIKE
-### Newton
+</Details>
+
+<Details>
+  <Summary>Newton</Summary>
 - 254 - The Cheesy Poofs
 - 1323 - MadTown Robotics
 - 294 - Beach Cities Robotics
 - 1189 - Gearheads
+</Details>
 
