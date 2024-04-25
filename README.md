@@ -2,12 +2,13 @@
 Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo".  This will mainly focus on mechanical aspects of robots I liked, but may change.
 
 ## Worlds Einstein Tournament Alliances
-
+<Details>
+  <Summary>Alliances</Summary>
 - Archimedes
   - 4613 - Barker Redbacks
   - 1678 - Citrus Circuits
   - 4206 - RoboVikes
-  - 2718 - Team OKC E'Possums
+  - 2718 - Team OKC E\'Possums
 - Curie
   - 2590 - Nemesis
   - 4476 - W.A.F.F.L.E.S.
@@ -43,6 +44,8 @@ Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo
   - 1323 - MadTown Robotics
   - 294 - Beach Cities Robotics
   - 1189 - Gearheads
+</Details>
+
 
 ## Details
 <Details>
