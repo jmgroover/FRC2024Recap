@@ -49,11 +49,18 @@ Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo
   <Summary>Archimedes</Summary>
   <Details>
     <Summary>4613 - Barker Redbacks</Summary>
-  This is a test.
+    This is a test.
   </Details>
-  ### 1678 - Citrus Circuits
-  ### 4206 - RoboVikes
-  ### 2718 - Team OKC E'Possums
+  <Details>
+    <Summary>1678 - Citrus Circuits</Summary>
+  </Details>
+  
+  <Details>
+    <Summary>4206 - RoboVikes</Summary>
+  </Details>
+  <Details>
+    <Summary>2718 - Team OKC E'Possums</Summary>
+  </Details>
 </Details>
 
 <Details>
