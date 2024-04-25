@@ -2,6 +2,7 @@
 Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo".  This will mainly focus on mechanical aspects of robots I liked, but may change.
 
 ## Worlds Einstein Tournament Alliances
+$ echo -e "<details><summary markdown='span'>Collapsed Block\n</summary>\n\n## Header\n</details>" | kramdown --parse-block-html
 <Details>
   <Summary>Alliances</Summary>
 - Archimedes
