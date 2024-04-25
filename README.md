@@ -53,7 +53,7 @@ Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo
   <Details>
     <Summary>4613 - Barker Redbacks</Summary>
     - Location: Sydney, New South Wales, Australia
-    - This is a test.
+    - [Behind the Bumpers](https://www.youtube.com/watch?v=aDj71SWcmGA)
   </Details>
   
   <Details>
