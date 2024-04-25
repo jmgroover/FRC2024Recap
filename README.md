@@ -3,7 +3,7 @@ Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo
 
 ## Worlds Einstein Tournament Alliances
 - Archimedes
-  - [4613 - Barker Redbacks](docs/4613.md)
+  - [4613 - Barker Redbacks](4613.md)
   - 1678 - Citrus Circuits
   - 4206 - RoboVikes
   - 2718 - Team OKC E\'Possums
