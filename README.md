@@ -3,8 +3,7 @@ Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo
 
 ## Worlds Einstein Tournament Alliances
 $ echo -e "<details><summary markdown='span'>Collapsed Block\n</summary>\n\n## Header\n</details>" | kramdown --parse-block-html
-<Details>
-  <Summary>Alliances</Summary>
+<Details><Summary>Alliances</Summary>
 - Archimedes
   - 4613 - Barker Redbacks
   - 1678 - Citrus Circuits
@@ -49,77 +48,65 @@ $ echo -e "<details><summary markdown='span'>Collapsed Block\n</summary>\n\n## H
 
 
 ## Details
-<Details>
-  <Summary>Archimedes</Summary>
-  <Details>
-    <Summary>4613 - Barker Redbacks</Summary>
+<Details><Summary>Archimedes</Summary>
+  <Details><Summary>4613 - Barker Redbacks</Summary>
     - Location: Sydney, New South Wales, Australia
     - [Behind the Bumpers](https://www.youtube.com/watch?v=aDj71SWcmGA)
   </Details>
   
-  <Details>
-    <Summary>1678 - Citrus Circuits</Summary>
+  <Details><Summary>1678 - Citrus Circuits</Summary>
   </Details>
   
-  <Details>
-    <Summary>4206 - RoboVikes</Summary>
+  <Details><Summary>4206 - RoboVikes</Summary>
   </Details>
   
-  <Details>
-    <Summary>2718 - Team OKC E'Possums</Summary>
+  <Details><Summary>2718 - Team OKC E'Possums</Summary>
   </Details>
 </Details>
 
-<Details>
-<Summary>Curie</Summary>
+<Details><Summary>Curie</Summary>
 - 2590 - Nemesis
 - 4476 - W.A.F.F.L.E.S.
 - 7028 - Binary Battalion
 - 190 - Gompei and H.E.R.D.
 </Details>
 
-<Details>
-  <Summary>Daly</Summary>
+<Details><Summary>Daly</Summary>
 - 1690 - Orbit
 - 4522 - Team SCREAM
 - 9432 - Team 8-Bit
 - 321 - RoboLancers
-  </Details>
+</Details>
 
-  <Details>
-    <Summary>Galileo</Summary>
+<Details><Summary>Galileo</Summary>
 - 2056 - OP Robotics
 - 987 - HIGHROLLERS
 - 1577 - Steampunk
 - 7558 - ALT-F4
 </Details>
 
-<Details>
-  <Summary>Hopper</Summary>
+<Details><Summary>Hopper</Summary>
 - 6328 - Mechanical Advantage
 - 4481 - Team Rembrandts
 - 9072 - TigerBots
 - 2370 - IBOTS
 </Details>
 
-<Details>
-  <Summary>Johnson</Summary>
+<Details><Summary>Johnson</Summary>
 - 5813 - Morpheus
 - 1477 - Texas Torque
 - 3061 - Huskie Robotics
 - 2582 - PantherBots
 </Details>
 
-<Details>
-  <Summary>Milstein</Summary>
+<Details><Summary>Milstein</Summary>
 - 604 - Quixilver
 - 9483 - Istanbul Wildcats
 - 1058 - PVC Pirates
 - 78 - AIR STRIKE
 </Details>
 
-<Details>
-  <Summary>Newton</Summary>
+<Details><Summary>Newton</Summary>
 - 254 - The Cheesy Poofs
 - 1323 - MadTown Robotics
 - 294 - Beach Cities Robotics
