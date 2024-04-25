@@ -47,7 +47,7 @@ Below are my thoughts and reflections on the 2024 FRC season entitled "Crescendo
 ## Details
 <Details>
   <Summary>Archimedes</Summary>
-### 4613 - Barker Redbacks
+  ### 4613 - Barker Redbacks
   This is a test.
 ### 1678 - Citrus Circuits
 ### 4206 - RoboVikes
